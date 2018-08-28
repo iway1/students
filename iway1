@@ -1,0 +1,1 @@
+I am Isaac Way a 5th year senior in Computer Science interested in all facets of software development. I am experienced with machine learning, web scraping, UI development for web and desktop, and setting up web servers.
